@@ -3,7 +3,7 @@
 Este projeto utiliza a biblioteca OpenCV para realizar a detecção de veículos em vídeos. A detecção é feita através de um classificador em cascata (Haar Cascade) treinado, permitindo identificar veículos automaticamente em qualquer sequência de vídeo fornecida. O projeto é ideal para automação de tarefas de monitoramento de tráfego ou sistemas de segurança.
 
 ## **Tecnologias Utilizadas**
-- **Python 3.12.4
+- **Python**: 3.12.4
 - **OpenCV**: Biblioteca de visão computacional usada para processamento de imagens e vídeos.
 - **Cascade Classifier**: Técnica de aprendizado supervisionado usada para detectar objetos em imagens, neste caso, veículos.
 - **Biblioteca de Visão Computacional**: https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
